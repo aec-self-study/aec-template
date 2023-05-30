@@ -1,2 +1,2 @@
-# aec-codespace-demo
-This is a codespace demo!
+# aec-template
+This is a template for Analytics Engineers Club!
